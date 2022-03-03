@@ -1,5 +1,13 @@
 import { createGlobalStyle } from 'styled-components';
 
+export const responsive = {
+  laptop: '1024px',
+  tablet: '768px',
+  mobileLarge: '425px',
+  mobileMedium: '375px',
+  mobileSmall: '320px',
+};
+
 export default createGlobalStyle`
 html,
 body {
@@ -10,6 +18,7 @@ body {
   background-color: var(--bgColor);
   color: var(--text);
   border: var(--border);
+  background-color: #eee;
 }
 a {
   color: inherit;

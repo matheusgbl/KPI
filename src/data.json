@@ -1,0 +1,145 @@
+{
+  "questions": [
+    {
+      "title": "Em sua equipe, possuem quantas pessoas?"
+    },
+    {
+      "answers": [
+        {
+          "id": 1,
+          "answer": "1 até 5"
+        },
+        {
+          "id": 2,
+          "answer": "5 até 10"
+      },
+      {
+        "id": 3,
+        "answer": "10 até 15"
+      },
+      {
+        "id": 4,
+        "answer": "15 até 20"
+      },
+      {
+        "id": 5,
+        "answer": "20 ou mais"
+      }
+    ]
+  },
+  {
+    "title": "Como você avalia a atuação do seu gestor/líder?"
+  },
+  {
+    "answers": [
+      {
+        "id": 6,
+        "answer": "Excelente"
+      },
+      {
+        "id": 7,
+        "answer": "Muito bom"
+      },
+      {
+        "id": 8,
+        "answer": "Poderia ser melhor"
+      },
+      {
+        "id": 9,
+        "answer": "Ruim"
+      },
+      {
+        "id": 10,
+        "answer": "Péssimo"
+      }
+    ]
+  },
+  {
+    "title": "Como é o seu relacionamento entre os funcionários e entre equipes?"
+  },
+  {
+    "answers": [
+      {
+        "id": 11,
+        "answer": "Há boa comunicação e interação entre equipes e funcionários"
+      },
+      {
+        "id": 12,
+        "answer": "Há comunicação apenas entre as equipes"
+      },
+      {
+        "id": 13,
+        "answer": "Indiferente"
+      },
+      {
+        "id": 14,
+        "answer": "Pouca comunicação entre equipe e funcionários"
+      },
+      {
+        "id": 15,
+        "answer": "Nenhuma comunicação"
+      }
+    ]
+  },
+  {
+    "title": "Como você avalia a carga horária de trabalho?"
+  },
+  {
+    "answers": [
+      {
+        "id": 16,
+        "answer": "Péssimo"
+      },
+      {
+        "id": 17,
+        "answer": "Ruim"
+      },
+      {
+        "id": 18,
+        "answer": "Há melhores"
+      },
+      {
+        "id": 19,
+        "answer": "Bom"
+      },
+      {
+        "id": 20,
+        "answer": "Excelente"
+      }
+    ]
+  },
+  {
+    "title": "Qual a sua satisfação geral com a empresa?"
+  },
+  {
+    "answers": [
+      {
+        "id": 21,
+        "answer": "Muito insatisfeito"
+      },
+      {
+        "id": 22,
+        "answer": "Insatisfeito"
+      },
+      {
+        "id": 23,
+        "answer": "Indiferente"
+      },
+      {
+        "id": 24,
+        "answer": "Satisfeito"
+      },
+      {
+        "id": 25,
+        "answer": "Muito satisfeito"
+      }
+    ]
+  }
+],
+
+ "write_question": [
+   {
+      "title": "Você teria alguma reclamação/sugestão para realizar a respeito da sua empresa?"
+   }
+ ]
+}
